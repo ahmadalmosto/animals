@@ -1,3 +1,5 @@
 Lion
 Tiger
 Horse
+monkey
+dog
